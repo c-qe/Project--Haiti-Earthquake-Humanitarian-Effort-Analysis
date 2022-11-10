@@ -1,6 +1,6 @@
 <div align="center">
     <h3>IBM Skills Network - Data Visualization with Python</h3>
-        <img src="/_Coursera_Data_Analysis_w_Python.png" alt="Badge" style="width:23%">
+        <img src="/Data_Visual_w_Python.png" alt="Badge" style="width:23%">
 </div>
 
 ### Week 1: Introduction to Data Visualization</b>
@@ -69,15 +69,3 @@
     - <b>[5.2]</b> - Jupyter Notebook: - Final Assignment
 - <b>Week 5: Final Exam</b> 
     - <b>[5.3]</b> - Graded Quiz: - Final Exam
-
-
-    
-    
- 
-    
-    
-    
-    
-    
-    
-    
