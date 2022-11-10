@@ -53,7 +53,7 @@
     - <b>[4.5]</b> - Reading: - Additional Resources for Plotly
     - <b>[4.6]</b> - Jupyter Notebook: - Plotly Basics: scatter, line, bar, histogram, pie, sunburst
     - <b>[4.7]</b> - Video: - Introduction to Dash
-    - <b>[4.8]</b> - LABS: - Theia Labs Overview
+    - <b>[4.8]</b> - SN Labs Cloud IDE: - Theia Labs Overview
     - <b>[4.9]</b> - Jupyter Notebook: - Dash Basics: HTML and Core Components
     - <b>[4.10]</b> - Reading: - Additional Resources for Dash
     - <b>[4.11]</b> - Video: - Make Dashboards Interactive
