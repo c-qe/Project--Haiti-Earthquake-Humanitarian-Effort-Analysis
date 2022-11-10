@@ -4,24 +4,24 @@
 </div>
 
 ### Week 1: Introduction to Data Visualization</b>
-- <b>Introduction to Data Visualization</b>
-    - <b>Video: </b>Introduction to Data Visualization
-    - <b>Video: </b>Introduction to Matplotlib
-    - <b>Video: </b>Basic Plotting with Matplotlib
-    - <b>Video: </b>Dataset on Immigration to Canada
-    - <b>Video: </b>Line Plots
-    - <b>Jupyter Notebook: </b>Introduction to Matplotlib and Line Plots
-    - <b>Quiz: </b>Introduction to Matplotlib and Line Plots
+- <b>Week 1 - Introduction to Data Visualization</b>
+    + <b>1.1</b> [Video] : Introduction to Data Visualization
+    + <b>1.2<b> [Video] : Introduction to Matplotlib
+    + <b>1.3 <b> [Video] : Basic Plotting with Matplotlib
+    + <b>1.4 <b> [Video] : Dataset on Immigration to Canada
+    + <b>1.5 <b> [Video] : Line Plots
+    + <b>1.6 <b> [Jupyter Notebook] : Introduction to Matplotlib and Line Plots
+    + <b>1.7 <b> [Quiz] : Introduction to Matplotlib and Line Plots
 
 ### Week 2: Basic and Specialized Visualization Tools</b>
-- <b>Basic Visualization Tools</b>
-    - <b>Video: </b>Area Plots
-    - <b>Video: </b>Histograms
+- <b>Week 2.0 - Basic Visualization Tools</b>
+    - <b>2.1 Video: </b>Area Plots
+    - <b>2.2 Video: </b>Histograms
     - <b>Video: </b>Bar Charts
     - <b>Jupyter Notebook: </b>Basic Visualization Tools
     - <b>Graded Quiz: </b>Basic Visualization Tools
     - <b>Jupyter Notebook: </b>Area Plots, Histograms, and Bar Plots
-- <b>Specialized Visualization Tools</b>
+- <b>Week 2.1 - Specialized Visualization Tools</b>
     - <b>Video: </b>Pie Charts
     - <b>Video: </b>Box Plots
     - <b>Video: </b>Scatter Plots
@@ -30,14 +30,14 @@
     - <b>Jupyter Notebook: </b>Pie Charts, Box Plots, Scatter Plots and Bubble Plots
 
 ### Week 3: Advanced Visualizations and Geospatial Data
-- <b>Advanced Visualization Tools</b>
+- <b>Week 3.0 - Advanced Visualization Tools</b>
     - <b>Video: </b>Waffle Charts
     - <b>Video: </b>Word Clouds
     - <b>Video: </b>Seaborn and Regression Plots
     - <b>Jupyter Notebook: </b>Advanced Visualization Tools
     - <b>Graded Quiz: </b>Advanced Visualization Tools
     - <b>Jupyter Notebook: </b>UPDATE NAME
- - <b>Visualizing Geospatial Data</b>
+ - <b>Week 3.1 - Visualizing Geospatial Data</b>
     - <b>Video: </b>Introduction to Folium 
     - <b>Video: </b>Maps with Markers
     - <b>Video: </b>Choropleth Maps
