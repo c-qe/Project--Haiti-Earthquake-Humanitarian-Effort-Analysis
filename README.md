@@ -45,22 +45,33 @@
     - <b>[3.11]</b> - Graded Quiz - UPDATE NAME
     
  ### Week 4: Creating Dashboards with Plotly and Dash
-- <b>Reading: </b>Module Overview and Learning Objectives
-- <b>Video: </b>Dashboarding Overview
-- <b>Reading: </b>Additional Resources for Dashboards
-- <b>Video: </b>Introduction to Plotly
-- <b>Reading: </b>Additional Resources for Plotly
-- <b>Jupyter Notebook: </b>Plotly Basics: scatter, line, bar, histogram, pie, sunburst
-- <b>Video: </b>Introduction to Dash
-- <b>LABS: </b>Theia Labs Overview
-- <b>Jupyter Notebook: </b>Dash Basics: HTML and Core Components
-- <b>Reading: </b>Additional Resources for Dash
-- <b>Video: </b>Make Dashboards Interactive
-- <b>Reading: </b>Additional Resources for Interactive Dashboards
-- <b>Jupyter Notebook: </b>Add Interactivity: User Inputs and Callbacks
-- <b>Jupyter Notebook: </b>Flight Delay Time Statistics Dashboard 
-- <b>Reading: </b>Lesson Summary
-- <b>Graded Quiz: </b>Graded Quiz
+- <b>Week 4: - Creating Dashboards with Plotly and Dash</b>
+    - <b>[4.1]</b> - Reading: - Module Overview and Learning Objectives
+    - <b>[4.2]</b> - Video: - Dashboarding Overview
+    - <b>[4.3]</b> - Reading: - Additional Resources for Dashboards
+    - <b>[4.4]</b> - Video: - Introduction to Plotly
+    - <b>[4.5]</b> - Reading: - Additional Resources for Plotly
+    - <b>[4.6]</b> - Jupyter Notebook: - Plotly Basics: scatter, line, bar, histogram, pie, sunburst
+    - <b>[4.7]</b> - Video: - Introduction to Dash
+    - <b>[4.8]</b> - LABS: - Theia Labs Overview
+    - <b>[4.9]</b> - Jupyter Notebook: - Dash Basics: HTML and Core Components
+    - <b>[4.10]</b> - Reading: - Additional Resources for Dash
+    - <b>[4.11]</b> - Video: - Make Dashboards Interactive
+    - <b>[4.12]</b> - Reading: - Additional Resources for Interactive Dashboards
+    - <b>[4.13]</b> - Jupyter Notebook: - Add Interactivity: User Inputs and Callbacks
+    - <b>[4.14]</b> - Jupyter Notebook: - Flight Delay Time Statistics Dashboard 
+    - <b>[4.15]</b> - Reading: - Lesson Summary
+    - <b>[4.16]</b> - Graded Quiz: - Graded Quiz
+    
+### Week 5: Final Project and Exam
+- <b>Week 5: Final Assignment</b> 
+    - <b>[5.1]</b> - Jupyter Notebook: - Practice Assignment
+    - <b>[5.2]</b> - Jupyter Notebook: - Final Assignment
+- <b>Week 5: Final Exam</b> 
+    - <b>[5.3]</b> - Graded Quiz: - Final Exam
+
+
+    
     
  
     
