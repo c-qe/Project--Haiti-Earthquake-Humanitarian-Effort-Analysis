@@ -42,7 +42,9 @@
     - `3.8 - Video` - Maps with Markers
     - `3.9 - Video` - Choropleth Maps
     - `3.10 - Jupyter Notebook` - Creating Maps and Visualizing Geospatial Data
-    - `3.11 - Video`Graded Quiz` - UPDATE NAME
+    - `3.11 - Graded Quiz` - Advanced Visualization Tools
+    - `3.12 - Jupyter Notebook` - Waffle Charts, Word Clouds and Regression Plots
+    
     
  ### Week 4: Creating Dashboards with Plotly and Dash
 - <b>Week 4: - Creating Dashboards with Plotly and Dash</b>
