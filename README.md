@@ -52,7 +52,7 @@
     - `4.2 - Video` - Dashboarding Overview
     - `4.3 - Reading` - Additional Resources for Dashboards
     - `4.4 - Video` - Introduction to Plotly
-    - `4.5 - Video`Reading` - Additional Resources for Plotly
+    - `4.5 - Reading` - Additional Resources for Plotly
     - `4.6 - Jupyter Notebook` - Plotly Basics: scatter, line, bar, histogram, pie, sunburst
     - `4.7 - Video` - Introduction to Dash
     - `4.8 -  SN Labs Cloud IDE` - Theia Labs Overview
