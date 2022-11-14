@@ -34,9 +34,9 @@
     - `3.1 - Video` - Waffle Charts
     - `3.2 - Video` - Word Clouds
     - `3.3 - Video` - Seaborn and Regression Plots
-    - `2.3 - Jupyter Notebook` - Advanced Visualization Tools
-    - `2.3 - Graded Quiz` - Advanced Visualization Tools
-    - `2.3 - Jupyter Notebook` - Waffle Charts, Word Clouds and Regression Plots
+    - `3.4 - Jupyter Notebook` - Advanced Visualization Tools
+    - `3.5 - Graded Quiz` - Advanced Visualization Tools
+    - `3.6 - Jupyter Notebook` - Waffle Charts, Word Clouds and Regression Plots
  - <b>Week 3 - Visualizing Geospatial Data</b>
     - `3.7 - Video` - Introduction to Folium 
     - `3.8 - Video` - Maps with Markers
